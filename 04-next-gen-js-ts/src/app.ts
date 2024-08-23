@@ -29,4 +29,4 @@ if (button) {
   button.addEventListener('click', (event) => console.log(event));
 }
 
-printOutput(add(5, 2));
+printOutput(add(5));
